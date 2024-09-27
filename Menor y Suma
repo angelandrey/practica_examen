@@ -1,0 +1,17 @@
+print(" ")
+print("Angel Andrey Muñoz Centeno 3W")
+print(" ")
+# Leer dos valores y almacenarlos en las variables num1 y num2
+num1 = float(input("Introduce el primer valor: "))  # Solicita el primer valor
+num2 = float(input("Introduce el segundo valor: "))  # Solicita el segundo valor
+# Determinar cuál de los dos valores es el menor
+if num1 < num2:
+    menor = num1  # num1 es menor
+else:
+    menor = num2  # num2 es menor o igual
+# Imprimir el menor de los dos valores
+print(f"El menor de los dos valores es: {menor}")
+# Realizar la suma de los dos números
+suma = num1 + num2  # Suma de num1 y num2
+# Imprimir el resultado de la suma
+print(f"La suma de los dos números es: {suma}")

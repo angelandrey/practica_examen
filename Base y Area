@@ -1,0 +1,15 @@
+print(" ")
+print("Angel Andrey Muñoz Centeno 3W")
+print(" ")
+# Solicitar al usuario que introduzca la base del rectángulo
+b = float(input("Introduzca la base del rectángulo (b): "))  # Leer la base como un número decimal
+# Solicitar al usuario que introduzca la altura del rectángulo
+h = float(input("Introduzca la altura del rectángulo (h): "))  # Leer la altura como un número decimal
+# Calcular el área del rectángulo
+area = b * h  # Área = base * altura
+# Calcular el perímetro del rectángulo
+perimetro = 2 * (b + h)  # Perímetro = 2 * (base + altura)
+# Imprimir el resultado del área
+print(f"El área del rectángulo es: {area}")  # Mostrar el área calculada
+# Imprimir el resultado del perímetro
+print(f"El perímetro del rectángulo es: {perimetro}")  # Mostrar el perímetro calculado

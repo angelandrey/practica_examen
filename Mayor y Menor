@@ -1,0 +1,17 @@
+print(" ")
+print("Angel Andrey Muñoz Centeno 3W")
+print(" ")
+# Leer tres valores y almacenarlos en las variables A, B y C
+A = float(input("Introduce el valor A: "))  # Solicita el primer valor
+B = float(input("Introduce el valor B: "))  # Solicita el segundo valor
+C = float(input("Introduce el valor C: "))  # Solicita el tercer valor
+
+# Comprobar si los valores introducidos son distintos
+if A == B or B == C or A == C:
+    print("¡Alerta!, creo que se repiten dos de tus variables.")  # Mensaje de alerta si hay valores iguales
+else:
+    # Determinar el mayor y el menor entre los tres valores
+    mayor = max(A, B, C)  # Encuentra el mayor valor
+    menor = min(A, B, C)  # Encuentra el menor valor
+    print(f"El mayor es: {mayor}")  # Imprime el mayor
+    print(f"El menor es: {menor}")  # Imprime el menor

@@ -1,0 +1,11 @@
+print(" ")
+print("Angel Andrey Muñoz Centeno 3W")
+print(" ")
+# Solicitar al usuario que introduzca un número natural
+numero = int(input("Introduce un número natural: "))  # Leer la entrada y convertirla a entero
+
+# Verificar si el número es par o impar
+if numero % 2 == 0:  # Si el resto de la división entre 2 es 0, es par
+    print(f"El número {numero} es par.")  # Mensaje indicando que es par
+else:
+    print(f"El número {numero} es impar.")  # Mensaje indicando que es impar

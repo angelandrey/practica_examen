@@ -1,0 +1,33 @@
+print(" ")
+print("Angel Andrey Muñoz Centeno 3W __ Este es mi Examen !_!")#ste es el nombre del autor
+print(" ")
+
+print("hola prof") #nuestra plantilla hola profe escobedo
+
+#pedir al usuario su apellido paterno
+Apellido = input("¿cual es tu apellido paterno? ").upper()
+
+#pedir al usuario su apellido materno
+Apellido2 = input("¿cual es tu apellido materno? ").upper()
+
+#pedir al usuario el nombre y ponerlo en la variable Nombre
+Nombre = input("¿cual es tu 2do nombre?").upper()
+
+#pedir al usuario el nombre y ponerlo en la variable Nombre1
+Nombre1 = input("¿cual es tu 1er nombre?").upper()
+
+Matricula = input("¿cuales son los ultimos 4 digitos de tu matricula ?")
+
+#imprimir un mensaje  usando las variables de "nombre" y "edad" 
+Nombre_completo = print(f"HOLA, {Apellido} {Apellido2} {Nombre} {Nombre1}, TU MATRICULA ES: {Matricula}")
+
+
+
+
+
+
+
+
+
+
+
