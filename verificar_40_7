@@ -1,0 +1,13 @@
+print(" ")
+print("Angel Andrey Muñoz Centeno 3W")
+print(" ")
+
+
+# Solicitar un número entero al usuario
+numero = int(input("Ingresa un número entero: "))
+
+# Verificar si el número es divisible por 7 y mayor a 40
+if numero > 40 and numero % 7 == 0:
+    print(f"El número {numero} es divisible por 7 y mayor a 40.")
+else:
+    print(f"El número {numero} NO es divisible por 7 o NO es mayor a 40.")
