@@ -31,6 +31,18 @@
 ![image](https://github.com/user-attachments/assets/c66e3d92-af98-4d84-a712-0da402182998)
 # ejecucion
 ![image](https://github.com/user-attachments/assets/43663939-080f-4726-b7c9-24a7b4fe5a0e)
+# programa factorial
+![image](https://github.com/user-attachments/assets/75f86168-f1a8-46c6-82db-4e958a3b7f1a)
+![image](https://github.com/user-attachments/assets/d3230180-d672-46da-b397-dfa04780ffd0)
+# ejecucion
+![image](https://github.com/user-attachments/assets/ea2d050c-3374-49f9-a3cd-85f23a2f59a4)
+
+# practica verificar 40 y 7
+![image](https://github.com/user-attachments/assets/f33dabc8-ba28-440e-8147-812fcca7fd36)
+
+
+
+
 
 
 
