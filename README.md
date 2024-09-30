@@ -4,4 +4,12 @@
 # ejecucion
 ![image](https://github.com/user-attachments/assets/cfdde76b-cd01-468c-b0d4-76908cafb889)
 
-# practica 
+# practica de nombre en mayusculas
+![image](https://github.com/user-attachments/assets/af7f7c74-b14b-4acd-a3da-c954d8251d16)
+![image](https://github.com/user-attachments/assets/a6079aa7-cc4e-433c-8510-0158a2953e55)
+# ejecucion
+![image](https://github.com/user-attachments/assets/8f6bf6fe-e19d-4eef-88df-31cadd7c17c5)
+
+# practica
+
+
