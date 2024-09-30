@@ -16,6 +16,24 @@
 # ejecucion
 ![image](https://github.com/user-attachments/assets/78353003-98ff-4c4b-a0d7-c34dfcd7b8f1)
 
+# practica menor y suma
+![image](https://github.com/user-attachments/assets/5a560314-a8e9-4191-b1c7-48dec97632b2)
+![image](https://github.com/user-attachments/assets/505d6bc2-d929-45f7-a96f-466616f2708#a)
+# ejecucion
+![image](https://github.com/user-attachments/assets/b0115332-d894-4f25-b9c0-50f2c2601576)
+
+# practica par o impar
+![image](https://github.com/user-attachments/assets/e92ce846-0116-4b59-a09b-3bb00de29c9c)
+# ejecucion
+![image](https://github.com/user-attachments/assets/b3305f24-f609-4f4f-9e05-5169b304ff89)
+
+# 
+
+
+
+
+
+
 
 
 
