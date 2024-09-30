@@ -10,6 +10,9 @@
 # ejecucion
 ![image](https://github.com/user-attachments/assets/8f6bf6fe-e19d-4eef-88df-31cadd7c17c5)
 
-# practica
+# practica mayor y menor
+![image](https://github.com/user-attachments/assets/3c8fc41c-5f16-4bb5-9cf7-f116021004bf)
+![image](https://github.com/user-attachments/assets/540566e1-e5ba-4ae7-be2c-3f803227176b)
+
 
 
