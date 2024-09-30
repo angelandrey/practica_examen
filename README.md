@@ -27,7 +27,12 @@
 # ejecucion
 ![image](https://github.com/user-attachments/assets/b3305f24-f609-4f4f-9e05-5169b304ff89)
 
-# 
+# practica primera docena
+![image](https://github.com/user-attachments/assets/c66e3d92-af98-4d84-a712-0da402182998)
+# ejecucion
+![image](https://github.com/user-attachments/assets/43663939-080f-4726-b7c9-24a7b4fe5a0e)
+
+
 
 
 
