@@ -39,6 +39,9 @@
 
 # practica verificar 40 y 7
 ![image](https://github.com/user-attachments/assets/f33dabc8-ba28-440e-8147-812fcca7fd36)
+# ejecucion 
+![image](https://github.com/user-attachments/assets/5f210f21-f5a1-4538-95c3-e3515f591adc)
+
 
 
 
